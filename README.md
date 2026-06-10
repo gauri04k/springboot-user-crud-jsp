@@ -125,17 +125,25 @@ http://localhost:8080/
 
 ### Home Page
 
-(Add Screenshot Here)
+<img width="958" height="705" alt="image" src="https://github.com/user-attachments/assets/ba7dda32-8611-4c51-9a94-5e4ec4424d93" />
 
-![Home Page](screenshots/home.png)
 
 ---
 
 ### Edit User Page
 
-(Add Screenshot Here)
+<img width="921" height="639" alt="image" src="https://github.com/user-attachments/assets/2630274c-2cdc-437e-af2b-7105e20464e0" />
 
-![Edit User](screenshots/edit.png)
+---
+
+### update record
+<img width="966" height="641" alt="image" src="https://github.com/user-attachments/assets/7844f361-7453-4b4a-bdf3-f82812bcc0b8" />
+
+---
+
+### Delete record
+
+<img width="755" height="146" alt="image" src="https://github.com/user-attachments/assets/7d408141-4535-4be1-bd48-468a17f8691b" />
 
 ---
 
